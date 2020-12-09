@@ -31,7 +31,7 @@ export const ldlc: Store = {
 			model: 'founders edition',
 			series: '3080',
 			url:
-				'https://www.ldlc.com/fiche/PB00348022.html'
+				'https://www.ldlc.com/fiche/PB00276527.html'
 		},
 	],
 	name: 'ldlc'
