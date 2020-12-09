@@ -7,7 +7,7 @@ export const ldlc: Store = {
 			text: ['']
 		},
 		maxPrice: {
-			container: 'div.price',
+			container: '#activeOffer > div.product-info > div.wrap-aside > aside > div.price',
 			euroFormat: true
 		},
 	},
